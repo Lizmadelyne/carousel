@@ -5,6 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 <<<<<<< HEAD
+<<<<<<< HEAD
 pnpm-debug.log*
 lerna-debug.log*
 
@@ -24,6 +25,8 @@ dist-ssr
 *.sln
 *.sw?
 =======
+=======
+>>>>>>> 3027751a9587d2f777b0d07d074b374d3e916ed6
 lerna-debug.log*
 .pnpm-debug.log*
 
@@ -148,4 +151,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> fe519ceb4c95f6b2ed0674816fc2b7c998105a12
+=======
+>>>>>>> 3027751a9587d2f777b0d07d074b374d3e916ed6
